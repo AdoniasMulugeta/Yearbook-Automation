@@ -1,2 +1,2 @@
 # Yearbook-Automation
-Collection extended-scripts for yearbook automation
+Collection extendscripts for yearbook automation
